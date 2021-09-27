@@ -26,6 +26,6 @@ commercial bank "X"" as a project manager.
 *   More than 15 projects on audit of information systems (testing of general and applied IT controls) have been independently completed, deficiencies have been identified and options for their solutions have been proposed.
 
 ## 🛠 Technical Stack
-*   Python: Pandas, Numpy (beginner level)
+*   Python: Pandas, Numpy, Matplotlib (beginner level)
 *   MySQL, SQL Server Management Studio, Oracle SQL Developer (select, join, group by, where, having, union, aggregate functions, SQL Window Functions)
 *   GitHub (beginner level)

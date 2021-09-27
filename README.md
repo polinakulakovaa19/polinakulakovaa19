@@ -22,7 +22,7 @@ Russian Federation, Moscow (IT Management in Business)
 *   I was participated in such university projects as "Development of a UML model of a commercial
 bank information system: Transfer of funds abroad", which was estimated at 100/100 and "Enterprise Engineering for the
 commercial bank "X"" as a project manager. 
-*   Currently working at KPMG (IT audit)
+*   Currently working at KPMG 
 *   More than 15 projects on audit of information systems (testing of general and applied IT controls) have been independently completed, deficiencies have been identified and options for their solutions have been proposed.
 
 ## 🛠 Technical Stack

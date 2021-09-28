@@ -8,7 +8,7 @@
    <a href="https://wa.me/79229305321">
        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
    </a>
-   <a href="https://hh.ru/resume/099a3f9fff078e8bc60039ed1f786c6857484f">
+   <a href="https://hh.ru/resume/0cd63c6dff094d0de50039ed1f594250557656">
        <img src="https://img.shields.io/badge/Head Hunter-B71C1C?style=for-the-badge&logo=wire&logoColor=white"/>
    </a>
 <p align='center'>
